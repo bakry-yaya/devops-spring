@@ -1,2 +1,2 @@
 # devops-spring
-devops-spring-maven
+devops-spring-mavens
